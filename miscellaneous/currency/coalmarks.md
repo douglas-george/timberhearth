@@ -1,6 +1,6 @@
-# Town
+# Coalmarks
 
-_This file is a placeholder._
+The currency of Timberhearth is "coalmarks".
 
 ---
 
