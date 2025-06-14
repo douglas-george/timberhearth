@@ -17,4 +17,4 @@ Send a seven word message to anyone you know very well, anywhere in the world.
 
 ---
 
-[⬅ Back to Character Directory](../characters/character-directory.md) | [🏠 Return to README](../README.md)
+[⬅ Back to Character Directory](../../characters/character-directory.md) | [🏠 Return to README](../../README.md)
