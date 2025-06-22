@@ -1,5 +1,7 @@
 # [Jessica](jessica_willowglen.md) – Character Profile
 
+![Jessica Willoglen](jessica_willowglen.png)
+
 ## Basic Info
 - **Full Name:** [Jessica](jessica_willowglen.md) Willowglen
 - **Age:** 16

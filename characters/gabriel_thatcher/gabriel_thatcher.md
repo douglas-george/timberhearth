@@ -1,5 +1,7 @@
 # [Gabriel](gabriel_thatcher.md) – Character Profile
 
+![Gabriel Thatcher](gabriel_thatcher.png)
+
 ## Basic Info
 - **Full Name:** [Gabriel](gabriel_thatcher.md) Thatcher (surname inferred from family references)
 - **Age:** 16
