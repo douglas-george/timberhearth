@@ -95,10 +95,11 @@ class CampaignEditor:
         print("Model produced modified file:", modified_file_id)
         return modified_file_id
 
-    def modify_markdown_text_only(self, src_path: Path, instruction: str, suffix=".edited") -> Path:
+    def modify_markdown_text_only(self, src_path: Path, instruction: str, suffix=None) -> Path:
         """
-        Read a local Markdown file, ask the model to apply edits, and write a new file.
-        Returns the path to the new file.
+        Read a local Markdown file, ask the model to apply edits, and write
+        the result back to the SAME file (or a new one if suffix is given).
+        Returns the path written.
         """
         original = src_path.read_text(encoding="utf-8")
 
@@ -116,15 +117,18 @@ class CampaignEditor:
         resp = self.chatgpt.responses.create(
             model=self.MODEL,
             input=prompt,
-            max_output_tokens=4000  # adjust as needed
+            max_output_tokens=4000
         )
         revised = resp.output_text
 
-        # write alongside the source, e.g. bryna_willowglen.edited.md
-        if src_path.suffix:
-            out_path = src_path.with_name(src_path.stem + suffix + src_path.suffix)
+        # If no suffix is provided, overwrite the original file
+        if suffix:
+            if src_path.suffix:
+                out_path = src_path.with_name(src_path.stem + suffix + src_path.suffix)
+            else:
+                out_path = src_path.with_name(src_path.name + suffix)
         else:
-            out_path = src_path.with_name(src_path.name + suffix)
+            out_path = src_path  # overwrite original
 
         out_path.write_text(revised, encoding="utf-8")
         print("Wrote:", out_path)
