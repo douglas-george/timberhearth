@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.eggs/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Editor/IDE files
+.vscode/ # VSCode
+.idea/ # IntelliJ IDEA / PyCharm
+*.sublime-project
+*.sublime-workspace
+*.swp # Vim swap files
+*~ # Emacs backup files
+
+# OS generated files
+.DS_Store # macOS
+.Trashes # macOS
+Thumbs.db # Windows
+ehthumbs.db # Windows
+Desktop.ini # Windows
+
+# Testing
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Logs
+*.log
+logs/
+
+# Database
+*.sqlite3
+*.db
+
+# Uploaded Media (e.g., in Django projects)
+media/
+
+# Distribution / build files
+dist/
+build/
+*.egg
+*.whl
+
+# Jupyter Notebook related files
+.ipynb_checkpoints
