@@ -15,3 +15,5 @@ This file will be expanded as [[Whistlewing](whistlewing.md)](characters/whistle
 - He offered both guidance and symbolic gifts—describing them not as tools, but as seeds of potential.
 - Whistlewing's voice is heard not with the ears, but with the heart.
 - He resides at the top of the Timberhearth clock tower, surrounded by scrolls, feathers, and archways open to the night.
+- *During a dark night, Whistlewing watched as Jessica and Gabriel, with brave Poodler by their side, fought a surprising and challenging attack on the village. Vendraxis had sent Creeping Wither pumpkins that spread a creeping shadow, attacking parts of Timberhearth. Together, Jessica’s calm courage and Gabriel’s quick thinking helped protect friends and neighbors, though the battle left the town fountain broken—a lasting reminder of their bravery and the price of peace.*
+

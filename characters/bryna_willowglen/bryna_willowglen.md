@@ -27,3 +27,4 @@ Bryna has an expressive face, messy curls, and a smudge of charcoal on her finge
 
 - Known to sneak brambleberry pastries to stray cats around Timberhearth.
 - Looks up to Jessica and sometimes mimics her behavior when no one is watching.
+- Witnessed a brave moment when Jessica and Gabriel, along with Gabriel’s clever dog Poodler, fought off a sudden attack on Willowglen by Vendraxis. Creeping Wither pumpkins rolled through parts of the village, causing fright and mischief. Together, they helped protect their friends and neighbors, though sadly the town fountain was destroyed in the chaos. This event showed Bryna just how strong and courageous her family can be.

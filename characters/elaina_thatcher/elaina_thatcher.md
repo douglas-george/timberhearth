@@ -26,3 +26,4 @@ Elaina wears simple dresses suited to life in Timberhearth, often with a worn sh
 - Supports Gabriel with steady encouragement, despite the family’s limited means.
 - Known in the village for her enduring beauty and quiet dignity, even when struggling with fatigue.
 - Was present during the Night of Voices, where her son Gabriel was called to ascend the tower alongside Jessica Willowglen.
+- Played a brave role during the Creeping Wither pumpkin attack, when the dark sorcerer Vendraxis unleashed a surprise assault on Timberhearth. Alongside her son Gabriel and his loyal dog, Poodler, she helped protect the village by bravely facing the glowing, creeping pumpkins that appeared in many streets. Though the team worked together to push the attackers back, the town fountain was sadly destroyed in the chaos, a reminder of the day they stood strong as a family and as a community.

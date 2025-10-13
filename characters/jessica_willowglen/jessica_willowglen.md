@@ -9,7 +9,7 @@
 - **Hometown:** Timberhearth
 - **Family:**
   - The Willowglen family, known for their wealth and generosity
-  - Mother: [Maribel Willowglen](../maribel_willoglen/maribel-willowglen.md), renowned baker and wise listener
+  - Mother: [Maribel Willowglen](../maribel_willowglen/maribel-willowglen.md), renowned baker and wise listener
   - Younger sister: [[Bryna Willowglen](../bryna_willowglen/bryna-willowglen.md)](characters/bryna_willowglen/bryna-willowglen.md), age 11, artistically inclined and playful
 
 ## Personality & Traits
@@ -45,6 +45,7 @@
   - Noticed a cloaked raccoon orchestrating the group.
   - Saw a mysterious cloaked figure on the rooftops but chose to follow the raccoons.
   - Used a piece of bread to try and record the raccoon’s claw mark using heat from a magical imprint.
+- Defended Timberhearth alongside Gabriel and their loyal dog Poodler during a sudden, coordinated attack led by Vendraxis. The town was beset by Creeping Wither pumpkins that spread creeping vines and strange shadows across the streets. Jessica used her quick thinking and the magic of her stone leaf to help slow the encroaching plants, while Gabriel bravely kept the pumpkins away with a makeshift bow and arrow. Poodler bravely chased away smaller pumpkins and barked warnings. Despite their courage, the town fountain was destroyed in the process, leaving a splash of shattered stone as a reminder of the night Timberhearth faced darkness together.
 
 ## Known Inventory
 - Lantern oil (purchased for 30 coalmarks)
@@ -52,7 +53,7 @@
 
 ## Notable Relationships
 - **[Gabriel](../gabriel_thatcher/gabriel_thatcher.md):** Close friend, born two days before her. They trust and support each other deeply.
-- **[Maribel Willowglen](../maribel_willoglen/maribel-willowglen.md):** Her wise and compassionate mother, known for giving excellent advice with snacks. [Jessica](jessica_willowglen.md) confides everything in her.
+- **[Maribel Willowglen](../maribel_willowglen/maribel-willowglen.md):** Her wise and compassionate mother, known for giving excellent advice with snacks. [Jessica](jessica_willowglen.md) confides everything in her.
 - **[[Bryna Willowglen](../bryna_willowglen/bryna-willowglen.md)](characters/bryna_willowglen/bryna-willowglen.md):** Younger sister with a mischievous streak who idolizes [Jessica](jessica_willowglen.md) from afar.
 - **[[Mossel](../mossel_crabtree/mossel.md)](characters/mossel_crabtree/mossel.md):** Town local who tasked her and [Gabriel](../gabriel_thatcher/gabriel_thatcher.md) with stump removal.
 - **[[Whistlewing](../whistlewing/whistlewing.md)](characters/whistlewing/whistlewing.md):** Mysterious owl who gifted her the stone leaf.
@@ -70,3 +71,4 @@ This file will be updated as [Jessica](jessica_willowglen.md)’s story continue
 - On the Night of Voices, Jessica was called up the tower together with Gabriel—something unprecedented in Timberhearth tradition.
 - She received a delicate leaf-shaped charm with silver veins from Whistlewing, symbolizing the 'spark of nature' within her.
 - Her family gave her 250 coalmarks as a coming-of-age gift.
+

@@ -36,7 +36,13 @@ A quick-reference guide to all major characters in the Timberhearth campaign. Ea
 
 ---
 
-This file will be updated as new characters are introduced.
+## ⚔️ Notable Events
+
+- **The Great Pumpkin Fray**: One chilly autumn evening, the peaceful village was suddenly attacked by Vendraxis, an ominous force that unleashed Creeping Wither pumpkins. These spooky pumpkins started to sprout and crawl through the streets, creeping over fences and across cobblestones, trying to take over parts of the town. Brave Gabriel, his mother Jessica, and their loyal dog Poodler teamed up to stop the invasion. Jessica used her nature magic to slow the pumpkins, while Gabriel and Poodler chased them down and helped push them back. Despite their best efforts, the town fountain was destroyed in the chaos, its sparkling waters now only a memory. This event brought the community closer, and Gabriel and Jessica’s courage became a cherished story for all.
+
+---
+
+This file will be updated as new characters and events are introduced.
 
 ---
 

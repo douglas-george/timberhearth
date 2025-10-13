@@ -46,6 +46,7 @@
 - Returned to the alley that evening and encountered a synchronized group of raccoons, led by a cloaked raccoon with magical traits.
 - Chose to follow the raccoons rather than the mysterious rooftop figure.
 - Noticed the raccoon leader hiss defiantly before disappearing.
+- **During a sudden and spooky night attack on Timberhearth by the sorcerer Vendraxis, Gabriel, his mother Jessica, and his loyal dog Poodler bravely fought back against the Creeping Wither pumpkins that sprang up like glowing jack-o’-lanterns all over town. Working together, they knocked back the mischievous vine-covered pumpkins creeping toward the houses and marketplace. Though their teamwork saved most of the village, the old town fountain was sadly shattered by a particularly strong pumpkin’s vine burst. Despite the mess, everyone knew they had stopped a bigger disaster that night.**
 
 ## Known Inventory
 - Lantern (purchased for 50 coalmarks)
@@ -70,3 +71,4 @@ This file will be updated as [Gabriel](gabriel_thatcher.md)’s story continues.
 - On the Night of Voices, Gabriel was called up the tower together with Jessica—something unprecedented in Timberhearth tradition.
 - He received a dark stone with a glowing ember at its core from Whistlewing, representing his potential to bring people together.
 - His family gave him 65 coalmarks as a coming-of-age gift.
+
