@@ -331,6 +331,8 @@ And together, they began the long descent.
 
 Mossel Ironhand didn’t trust the clock tower.
 
+It had been exactly seven days since the Night of Voices—the same number Whistlewing had spoken. His summons came as the clock tower chimed noon, carried by rumor more than voice. The villagers said the owl had stirred again, feathers shining at the windows, waiting.
+
 He trusted cobblestones and broom bristles. He trusted shutters that creaked in the wind and flowerbeds that needed weeding. But he didn’t trust old magic—especially the kind that lived at the top of spiraling stairs and spoke with the voice of an owl.
 
 So when Jessica Willowglen and Gabriel Thatcher asked to climb the tower a week ago, Mossel had planted himself squarely in their path.
@@ -701,6 +703,8 @@ Because something was wrong in Timberhearth.
 
 And now, all three of them knew it.
 
+Back in her kitchen, Maribel Willowglen paused mid-knead, as if she’d heard something carried on the wind. She looked toward the woods and whispered, “Be careful, Orrin… and the others, too.”
+
 
 # Chapter Ten: The Patch That Should Not Move
 
@@ -796,6 +800,8 @@ Gabriel nodded, pale and shaking. “The patch… it chased us.”
 
 Whistlewing closed his eyes. “Then there’s no more time for hoping.”
 
+For the first time, they saw weariness in him—his feathers dulled at the edges, and his voice trembled slightly, as if the weight of centuries had begun to press harder.
+
 He turned and drew aside a curtain Jessica hadn’t noticed before. Behind it was a curved wall carved with thirteen sigils—one of them pulsing gently with light.
 
 “Ringtail was the first to awaken. And now you’ve seen why we must find the rest.”
@@ -827,6 +833,8 @@ The owl’s gaze sharpened.
 “The Creeping Wither is stirring beneath our feet. And if we do not gather the Guardians… there will be nothing left for it to devour but us.”
 
 
+
+Before the next full moon had passed, whispers of new Guardians stirred again in Timberhearth.
 
 # Chapter Thirteen: The Deer and the Fox
 
@@ -988,6 +996,8 @@ Jessica smiled faintly. “I think we found a Guardian.”
 
 And together, they stepped into the night, toward whatever came next.
 
+Far behind them, a faint rustle moved through the distant vines. The blight was not gone—it was waiting.
+
 
 # Chapter Fourteen: The Sealing of Vendraxis
 
@@ -1009,7 +1019,7 @@ The source, they learned, was no curse or blight, but a presence: Vendraxis, the
 
 Elric and Kaelen gathered others—leaders not of armies, but of life.
 
-There was Mira Cinderglen, whose bakery hearth warmed half the Vale, and whose kindness was legend. She saw the rot in her flour and felt the wrongness in the dough.
+There was Mira Cinderglen, whose bakery hearth warmed half the Vale and whose kindness was legend—she would later be known as Embermane, the fox whose fire never dies. She saw the rot in her flour and felt the wrongness in the dough.
 Bramm the Forge-Hand, who spoke little but shaped sigils into steel, saw his anvil crack without cause.
 Sister Aldith, veiled and soft-spoken, read the moon and dreamed of vines choking the stars.
 Torren Wex, a carpenter with laughter in his lungs, found his ladders snapped by branches that grew overnight.
