@@ -474,8 +474,26 @@ def orchestrate(save_draft, run_editor, run_ghost, save_responses, draft_text, e
         cq = editor_json.get("clarifying_questions") or []
         if cq:
             items = editor_json.get("items") or []
+
+            def _norm(s: str) -> str:
+                return " ".join((s or "").strip().lower().split())
+
+            # Detect existing question-like items to avoid duplicates
+            existing_q = set()
+            for it in items:
+                if not isinstance(it, dict):
+                    continue
+                cat = str(it.get("category", "")).lower()
+                title = str(it.get("title", "")).lower()
+                suggested = str(it.get("suggested_change", ""))
+                detail = str(it.get("detail", "")).lower()
+                if cat == "clarifying_question" or "clarifying" in title or ("question" in detail and cat in ("clarity", "structure", "voice", "continuity", "grammar")):
+                    existing_q.add(_norm(suggested))
+
             next_idx = 1
             for q in cq:
+                if _norm(q) in existing_q:
+                    continue
                 items.append(
                     {
                         "id": f"CQ{next_idx}",
@@ -489,7 +507,9 @@ def orchestrate(save_draft, run_editor, run_ghost, save_responses, draft_text, e
                     }
                 )
                 next_idx += 1
+
             editor_json["items"] = items
+            editor_json["clarifying_questions"] = []  # keep general area clean
             editor_json["clarifying_questions"] = []  # keep general area clean
 
         # Initialize author response list (blank)

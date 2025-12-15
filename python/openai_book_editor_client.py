@@ -69,6 +69,7 @@ Rules:
 - Keep evidence snippets short (<= 20 words each).
 - Provide 5-15 items depending on excerpt length.
 - If you are unsure, include the concern as an item with risk="high" and ask a clarifying question.
+- IMPORTANT: Put all clarifying questions ONLY in the "clarifying_questions" array. Do NOT repeat clarifying questions inside "items".
 - Do NOT include author responses; the app will collect those.
 """
 
